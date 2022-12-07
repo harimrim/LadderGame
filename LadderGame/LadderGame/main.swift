@@ -17,6 +17,7 @@ func printLadder(user: Int = joinuser, hegith: Int = 4) {
     var width = user - 1
     var arr = [[Int]]()
     var arr2: [[Int]] = [[Int]](repeating:[Int](repeating: 0, count: width), count: hegith)
+    var test
     print(arr)
 }
 
